@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello and welcome to my github profile. 👋
 
 - 🌱 I’m currently learning HTML5/CSS/Javascript through Udacity.
   
